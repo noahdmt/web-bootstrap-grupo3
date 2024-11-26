@@ -7,3 +7,5 @@ Es una página para comprar cursos en línea.
 - HTML
 - CSS
 - Bootstrap
+
+Otro párrafo
