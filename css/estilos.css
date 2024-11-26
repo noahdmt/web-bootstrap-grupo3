@@ -13,6 +13,11 @@ header {
   font-weight: bold;
 }
 
+.active {
+  font-weight: bold;
+  color: brown !important;
+}
+
 /* Carousel  */
 #carousel .carousel-inner {
   height: 100vh;
