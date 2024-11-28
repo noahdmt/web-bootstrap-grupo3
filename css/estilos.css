@@ -72,6 +72,13 @@ nav .active {
   border-radius: 50%;
 }
 
+#nuevo .card {
+  & img {
+    height: 150px;
+    object-fit: cover;
+  }
+}
+
 .btn-up {
   position: fixed;
   bottom: 10px;
