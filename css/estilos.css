@@ -72,7 +72,8 @@ nav .active {
   border-radius: 50%;
 }
 
-#nuevo .card {
+#novedades .card {
+
   & img {
     height: 150px;
     object-fit: cover;
